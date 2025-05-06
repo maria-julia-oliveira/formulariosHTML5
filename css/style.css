@@ -1,6 +1,6 @@
 :root{
-    --background-color: rgb(220, 135, 149);
-    --text-color: pink; 
+    --background-color: rgb(93, 0, 93);
+    --text-color: rgb(205, 2, 205); 
 }
 *{
     margin: 0;
