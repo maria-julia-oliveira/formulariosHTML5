@@ -37,13 +37,13 @@ main{
     border-radius: 20px;
     padding: 2rem;
 
-    form{
-   display: flex;
+form{
+   display: flex;                                                                                                                                                                                                
    flex-direction: column;
    justify-content: center;
    align-items: center;
-
     }
+
 }
 footer{
 bottom: 0;
