@@ -37,3 +37,11 @@ main{
     border-radius: 20px;
     padding: 2rem;
 }
+footer{
+bottom: 0;
+border-top: 2px solid var(--text-color);
+position: absolute;
+display: flex;
+justify-content: center;
+align-items: center;
+}
