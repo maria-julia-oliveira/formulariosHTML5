@@ -30,12 +30,20 @@ align-items: center;
 }
 main{
     display: flex;
-    flex-direction: column !important;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     border: 2px solid var(--text-color);
     border-radius: 20px;
     padding: 2rem;
+
+    form{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+    }
 }
 footer{
 bottom: 0;
