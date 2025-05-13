@@ -67,6 +67,7 @@ input[type="submit"], input[type="reset"]{
 }
 
 footer{
+    padding: 0.5rem;
     bottom: 0;
     height: 20px;
     border-top: 2px solid var(--text-color);
